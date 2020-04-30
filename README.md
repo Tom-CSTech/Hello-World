@@ -1,6 +1,8 @@
 # Hello-World
 Test Repo
 
-Hello Test File,
+This is a second test.
 
-You exist purely for testing purposes since I am a GitHub noob. It's time to give a new meaning to "Git Gud".
+It exists because the first one failed.
+
+This test reigns superior.
